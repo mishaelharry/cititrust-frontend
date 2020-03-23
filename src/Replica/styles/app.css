@@ -1,0 +1,255 @@
+.sub-header{
+    background-color: #222222;
+    border: 3px solid #222222;
+    height: 35px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color:white;
+    padding-left: 150px;
+    font-size: 12px
+}
+
+.sub-header_right{
+    padding-right: 175px;
+}
+
+.home_icon{
+    color: #222222;
+}
+
+.heading{
+    background-color: #017cc2;
+    border: 3px solid #017cc2;
+    height: 100px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color:white;
+    padding-left: 150px;
+    padding-bottom: 0px
+   }
+
+   .img-logo{
+       font-weight: bolder;
+   }
+   
+   .header_right{
+    padding-right: 152px;
+}
+
+.head_bank_nav{
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+.headnav-bg{
+    background-color: lightseagreen;
+}
+.bg{
+    background-color:  #017cc2;
+    min-height: 500px;
+  
+}
+hr{
+    background-color:white!important;
+
+}
+a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: white;
+  }
+  
+  /* selected link */
+  a:active {
+    color: white;
+  }
+.caro{
+    background-color: white;
+}
+
+.menubar {
+    background-color: #017cc2;
+    display: flex;
+    height: 50px;
+    justify-content: flex-start;
+    align-items: center;
+    color:white;
+    padding-left: 150px;
+    font-size: 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+.homeNav{
+    background-color:white;
+}
+
+.firstSection{
+    background-color: #017cc2;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+
+.secondSection{
+    background-color: white;
+}
+.thirdSection{
+    background-image: url('../images/crediti.jpg');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    padding-top: 180px;
+    padding-bottom: 80px;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.thirdSectiona{
+    background-image: url('../images/rem.jpg');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    font-weight: bold;
+    font-size: 32px;
+    color : red;
+}
+
+.sectionFourth{
+    background-color: #222222;
+    color: #fff;
+    padding-bottom: 80px;
+    padding-top: 80px;
+
+}
+.section7{
+    background-color: white;
+    padding-bottom: 70px;
+    padding-top: 70px;
+}
+
+.sectionFifth{
+    background-color: white;
+    padding-bottom: 60px;
+    padding-top: 60px;
+
+}
+.card-section{
+    background-color: white;
+}
+
+.sectionSix{
+    background-color: white;
+    padding-bottom: 70px;
+    padding-top: 70px;
+
+}
+.sectionSeventh{
+    background-color: #017cc2;
+    color: white;
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+}
+
+.sectioneight{
+    background-color: grey;
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+}
+footer{
+    background-color: #222222;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: white;
+    font-size: 16px;
+}
+
+.logintop{
+   background-color: white;
+   border: 5px solid white;
+   height: 24px;
+   padding: 30px 30px;
+   color: blue;
+   text-align: center;
+}
+
+.login_image{
+    background-image: url('../images/sure.jpg');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 795px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    font-weight: bold;
+    font-size: 32px;
+    color : green;
+    
+}
+.bg-silver{
+    background-color: silver;
+}
+.account-nav{
+    border: 3px solid #017cc2;
+    background-color: #017cc2;
+    height: 60px;
+    color: white;
+}
+
+.section-dash{
+    background-color: #222222;
+    color: white;
+
+}
+
+.african_presence{
+    background-image: url('../images/glo.jpg');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    padding-top: 70px;
+    padding-bottom: 120px;
+    font-size: 16px;
+    font-weight: bold;
+    color : white;
+    text-align: center
+    
+}
+.about{
+    background-image: url('../images/sure.jpg');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 330px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    font-size: 16px;
+    font-weight: bold;
+    color : '#017cc2';
+    text-align: center
+    
+}
+
+.rit{
+    background-image: url('../images/rit.jpeg');
+    background-position: center top;
+    background-repeat: no-repeat;
+
+    height: 100px;
+
+}
